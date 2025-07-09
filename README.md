@@ -1,4 +1,4 @@
-This home security system project utilizes an Arduino 
+This is a smart home security system project which utilizes an Arduino 
 Uno to create a simple, yet effective security solution. 
 It integrates various components such as an RFID 
 module for arming/disarming, an HC-05 Bluetooth 
